@@ -194,3 +194,54 @@ carlospaz@Carlos-MacBook-Pro:~/campusciff$ git list
 * 059711d Commit inicial.
 * c74fcbc Initial commit
 ~~~
+
+
+## 2.22 CUENTA DE GITHUB
+### 1. Poner una foto en vuestro perfil de GitHub.
+
+### 2. Poner el doble factor de autentificación en vuestra cuenta de GitHub.
+
+### 3. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
+
+## 2.23 USO SOCIAL DE GITHUB
+### 1. Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles.
+
+### 2. Seguir los repositorios campusciff del resto de tus compañeros.
+
+### 3. Añadir una estrella a los repositorios campusciff del resto de tus compañeros.
+
+## 2.24 CREAR UNA TABLA
+### 1. Crear una tabla de este estilo en el fichero README.md con la información de varios de tus compañeros de clase:
+| NOMBRE                     | GITHUB                                  |
+| -------------------------- | --------------------------------------- |
+| Patricia Iglesias          |  <https://github.com/Pimateos>          |
+| Julián Gómez               | <https://github.com/CIFFjuliangomez>    |
+| César Hernández            | <https://github.com/ciffcesarhernandez> |
+| David Pacheco              | <https://github.com/davpacheco>         |
+| Cristóbal Rodríguez Fraile | <https://github.com/crisrodfra>         |
+| Pablo Suárez Manjón        | <https://github.com/pablosuarezmanjon>  |
+
+## 2.25 COLABORADORES
+### 1. Poner a github.com/asanzdiego como colaborador del repositorio campusciff
+
+## 2.26 CREAR UNA ORGANIZACIÓN
+### 1. Crear una organización llamada campuscifftunombredeusuariodegithub
+
+## 2.27 CREAR EQUIPOS
+### 1. Crear 2 equipos en la organización campuscifftunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
+### 2. Meter a github.com/asanzdiego y a 2 de vuestros compañeros de clase en el equipo administradores.
+### 3. Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
+
+## 2.28 CREAR UN INDEX.HTML
+### 1. Crear un index.html que se pueda ver como página web en la organización.
+
+## 2.29 CREAR PULL-REQUESTS
+### 1. Hacer 2 forks de 2 repositorios campuscifftunombredeusuariodegithub.github.io de 2 organizaciones de las que no seais ni administradores ni colaboradores.
+### 2. Crearos una rama en cada fork.
+### 3. En cada rama modificar el fichero index.html añadiendo vuestro nombre.
+### 4. Con cada rama hacer un pull-request.
+
+## 2.30 GESTIONAR PULL-REQUESTS
+### 1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+
+
