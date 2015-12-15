@@ -199,10 +199,13 @@ carlospaz@Carlos-MacBook-Pro:~/campusciff$ git list
 
 ## 2.22 CUENTA DE GITHUB
 ### 1. Poner una foto en vuestro perfil de GitHub.
+![Foto perfil](/img/profile.png)
 
 ### 2. Poner el doble factor de autentificación en vuestra cuenta de GitHub.
+![Doble factor](/img/two-factor_auth.png)
 
 ### 3. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
+La clave pública del ordenador de trabajo ya fue añadida con anterioridad al ejercicio.
 
 ## 2.23 USO SOCIAL DE GITHUB
 ### 1. Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles.
