@@ -251,11 +251,20 @@ La clave pública del ordenador de trabajo ya fue añadida con anterioridad al e
 
 ## 2.28 CREAR UN INDEX.HTML
 ### 1. Crear un index.html que se pueda ver como página web en la organización.
+![Web organizacion](/img/index.png)
 
 ## 2.29 CREAR PULL-REQUESTS
 ### 1. Hacer 2 forks de 2 repositorios campuscifftunombredeusuariodegithub.github.io de 2 organizaciones de las que no seais ni administradores ni colaboradores.
+![Forks](/img/forks.png)
+
 ### 2. Crearos una rama en cada fork.
+![Branch 1](/img/branch1.png)
+![Branch 2](/img/branch2.png)
+
 ### 3. En cada rama modificar el fichero index.html añadiendo vuestro nombre.
+![Modificacion 1](/img/mod1.png)
+![Modificacion 2](/img/mod2.png)
+
 ### 4. Con cada rama hacer un pull-request.
 ![Pull-request 1](/img/pr1.png)
 ![Pull-request 2](/img/pr2.png)
