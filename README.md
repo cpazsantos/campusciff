@@ -209,10 +209,13 @@ La clave pública del ordenador de trabajo ya fue añadida con anterioridad al e
 
 ## 2.23 USO SOCIAL DE GITHUB
 ### 1. Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles.
+![Following](/img/following.png)
 
 ### 2. Seguir los repositorios campusciff del resto de tus compañeros.
+![Following repository](/img/followingrepo.png)
 
 ### 3. Añadir una estrella a los repositorios campusciff del resto de tus compañeros.
+![Starred](/img/starred.png)
 
 ## 2.24 CREAR UNA TABLA
 ### 1. Crear una tabla de este estilo en el fichero README.md con la información de varios de tus compañeros de clase:
@@ -227,12 +230,15 @@ La clave pública del ordenador de trabajo ya fue añadida con anterioridad al e
 
 ## 2.25 COLABORADORES
 ### 1. Poner a github.com/asanzdiego como colaborador del repositorio campusciff
+![Colaboradores](/img/colaborador.png)
 
 ## 2.26 CREAR UNA ORGANIZACIÓN
-### 1. Crear una organización llamada campuscifftunombredeusuariodegithub
+### 1. Crear una organización llamada campusciff-tunombredeusuariodegithub
+![Organizacion](/img/organization.png)
+
 
 ## 2.27 CREAR EQUIPOS
-### 1. Crear 2 equipos en la organización campuscifftunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
+### 1. Crear 2 equipos en la organización campusciff-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
 ### 2. Meter a github.com/asanzdiego y a 2 de vuestros compañeros de clase en el equipo administradores.
 ### 3. Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
 
@@ -247,5 +253,6 @@ La clave pública del ordenador de trabajo ya fue añadida con anterioridad al e
 
 ## 2.30 GESTIONAR PULL-REQUESTS
 ### 1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+![Gestionar Pull-Request](/img/prequest.png)
 
 
