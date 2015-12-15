@@ -3,6 +3,7 @@ Repositorio de la asignatura DATA SCIENCE TOOLKIT.
 
 ## 2.1 REPOSITORIO CAMPUSCIFF (I)
 ### 1. Crear un repositorio en vuestro GitHub llamado campusciff.
+![Repositorio campusciff](/img/nuevo_repositorio.png)
 
 ## 2.2 REPOSITORIO CAMPUSCIFF (II)
 ### 1. Clonar vuestro repositorio en local.
