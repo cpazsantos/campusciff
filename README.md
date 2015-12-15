@@ -257,6 +257,9 @@ La clave pública del ordenador de trabajo ya fue añadida con anterioridad al e
 ### 2. Crearos una rama en cada fork.
 ### 3. En cada rama modificar el fichero index.html añadiendo vuestro nombre.
 ### 4. Con cada rama hacer un pull-request.
+![Pull-request 1](/img/pr1.png)
+![Pull-request 2](/img/pr2.png)
+
 
 ## 2.30 GESTIONAR PULL-REQUESTS
 ### 1. Aceptar los pull-request que lleguen a los repositorios de tu organización.
