@@ -239,8 +239,15 @@ La clave pública del ordenador de trabajo ya fue añadida con anterioridad al e
 
 ## 2.27 CREAR EQUIPOS
 ### 1. Crear 2 equipos en la organización campusciff-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
+![Equipos](/img/teams.png)
+![Permisos](/img/permisos.png)
+
 ### 2. Meter a github.com/asanzdiego y a 2 de vuestros compañeros de clase en el equipo administradores.
+![Administradores](/img/administradores.png)
+
 ### 3. Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
+![Colaboradores](/img/colaboradores.png)
+
 
 ## 2.28 CREAR UN INDEX.HTML
 ### 1. Crear un index.html que se pueda ver como página web en la organización.
